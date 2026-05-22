@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Kaick 👋
 
-<!--
-**kaickismael/kaickismael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+## Tecnologias
+- JavaScript
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projeto principal
+
+### Pomodoroom
+Aplicação web de gerenciamento de tempo baseada na técnica Pomodoro.
+
+🔗 Demo:
+https://kaickismael.github.io/pomodoroom/
+
+🔗 Repositório:
+https://github.com/kaickismael/pomodoroom
+
+## Objetivo
+Buscando oportunidade de estágio em desenvolvimento.
